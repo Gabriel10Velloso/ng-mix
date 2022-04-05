@@ -1,4 +1,5 @@
 # NgMix
+https://medium.com/@laidav/angular-mixins-a-reusability-technique-138776bc2b78
 
 Angular schematic library for generating TypeScript mixins designed for Angular Components.
 
